@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://media1.tenor.com/images/ef9687b36e36605b375b4e9b0cde51db/tenor.gif?itemid=12498627");
+  background-size: 1600px 900px;
+}
+h1{
+  font-size: 45px;
+  border:solid black;
+  background: white;
+  color: black;
+}
+p{
+  font-size:25px;
+  background: white;
+  border:solid black;
+}
+@media screen and(max-width: 400px);
